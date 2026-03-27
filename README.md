@@ -5,8 +5,7 @@ To write a program to find the 1-norm, 2-norm and infinity norm of the matrix an
 1.	Hardware – PCs
 2.	Anaconda – Python 3.7 Installation / Moodle-Code Runner
 ## Algorithm:
-## 1-norm
-
+<h4> 1-norm </h4>
 Step 1: Start the program.
 
 Step 2: Read the input matrix using np.array().
